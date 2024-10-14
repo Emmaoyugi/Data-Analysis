@@ -1,2 +1,2 @@
 # Data-Analysis
-print('hello worl')
+print('hello world')
